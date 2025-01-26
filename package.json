@@ -3,6 +3,8 @@
   "displayName": "Database design",
   "description": "A pack of VSCode extensions for database design. Using the DBML language for design and Database Client for interaction",
   "version": "0.0.1",
+  "publisher": "erralb",
+  "repository": "https://github.com/erralb/database-design",
   "engines": {
     "vscode": "^1.96.0"
   },
