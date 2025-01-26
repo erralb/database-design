@@ -1,0 +1,26 @@
+{
+  "name": "database-design",
+  "displayName": "Database design",
+  "description": "A pack of VSCode extensions for database design. Using the DBML language for design and Database Client for interaction",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "adpyke.vscode-sql-formatter", 
+    "aflalo.dbml-formatter", 
+    "bmewburn.vscode-intelephense-client", 
+    "bocovo.dbml-erd-visualizer", 
+    "cweijan.dbclient-jdbc", 
+    "cweijan.vscode-mysql-client2", 
+    "duynvu.dbml-language", 
+    "matt-meyers.vscode-dbml", 
+    "mdickin.markdown-shortcuts", 
+    "sadesyllas.vscode-workspace-switcher", 
+    "shd101wyy.markdown-preview-enhanced", 
+    "simonsiefke.svg-preview"
+  ]
+}
