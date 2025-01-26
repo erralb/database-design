@@ -1,16 +1,23 @@
-# database-design README
+# Database design extensions pack
 
-## Working with Markdown
+My currated list of database design extensions for Visual Studio Code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Using the DBML language to design databases and the Database Client JDBC to connect to databases.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Extensions
 
-## For more information
+* vscode-sql-formatter
+* dbml-formatter
+* vscode-intelephense-client
+* dbml-erd-visualizer
+* dbclient-jdbc
+* vscode-mysql-client2
+* dbml-language
+* vscode-dbml
+* markdown-shortcuts
+* vscode-workspace-switcher
+* markdown-preview-enhanced
+* svg-preview
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
