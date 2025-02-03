@@ -11,3 +11,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [2025-02-03]
 
 - Added DOTENV extension
+- Added Markdown Shortcuts extension
+- Added vsix files to Github
