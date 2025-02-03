@@ -6,18 +6,18 @@ Using the DBML language to design databases and the Database Client JDBC to conn
 
 ## Extensions
 
-* vscode-sql-formatter
-* dbml-formatter
-* vscode-intelephense-client
-* dbml-erd-visualizer
-* dbclient-jdbc
-* vscode-mysql-client2
-* dbml-language
-* vscode-dbml
-* markdown-shortcuts
-* vscode-workspace-switcher
-* markdown-preview-enhanced
-* svg-preview
-
+* "adpyke.vscode-sql-formatter",
+* "aflalo.dbml-formatter",
+* "bmewburn.vscode-intelephense-client",
+* "bocovo.dbml-erd-visualizer",
+* "cweijan.dbclient-jdbc",
+* "cweijan.vscode-mysql-client2",
+* "duynvu.dbml-language",
+* "matt-meyers.vscode-dbml",
+* "mdickin.markdown-shortcuts",
+* "mikestead.dotenv",
+* "sadesyllas.vscode-workspace-switcher",
+* "shd101wyy.markdown-preview-enhanced",
+* "simonsiefke.svg-preview"
 
 **Enjoy!**
