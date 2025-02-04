@@ -12,6 +12,10 @@ The idea behind this pack is to have a set of extensions that help you design da
 - Using Database Client JDBC to connect to databases : https://marketplace.visualstudio.com/items?itemName=cweijan.dbclient-jdbc
 - Using PHP and PHP Faker to generate data : https://fakerphp.org/
 
+# VSIX files
+
+You can download this extension as a VSIX file on [Github](https://github.com/erralb/database-design/tree/master/packages).
+
 ## Extensions
 
 * ["SQL Formatter"](https://marketplace.visualstudio.com/items?itemName=adpyke.vscode-sql-formatter)
