@@ -6,5 +6,5 @@ cp *.vsix packages/
 vsce publish
 rm *.vsix
 git add .
-git commit -m "Publishing new version"
+git commit -m "New version"
 git push

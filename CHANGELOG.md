@@ -12,3 +12,7 @@ All notable changes to the "database-design" extension pack will be documented i
 - Added Markdown Shortcuts extension
 - Added vsix files to Github
 - Fix Market place links to README.md
+
+## [2025-02-04] - v1.0.5
+
+- Adding a logo image
